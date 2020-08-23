@@ -1,9 +1,9 @@
 //#full-example
-package com.messagebird
+package com.gastonsiffert
 
 import akka.actor.testkit.typed.scaladsl.ScalaTestWithActorTestKit
-import com.messagebird.Greeter.Greet
-import com.messagebird.Greeter.Greeted
+import com.gastonsiffert.Greeter.Greet
+import com.gastonsiffert.Greeter.Greeted
 import org.scalatest.wordspec.AnyWordSpecLike
 
 //#definition

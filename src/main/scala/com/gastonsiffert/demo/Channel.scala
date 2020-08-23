@@ -1,4 +1,4 @@
-package com.messagebird.demo
+package com.gastonsiffert.demo
 
 import akka.actor.typed.scaladsl.{ActorContext, Behaviors}
 import akka.actor.typed.{ActorRef, Behavior, SupervisorStrategy}

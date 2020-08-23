@@ -1,4 +1,4 @@
-package com.messagebird.demo
+package com.gastonsiffert.demo
 
 import akka.io.{Tcp}
 import java.net.InetSocketAddress

@@ -1,4 +1,4 @@
-package com.messagebird.demo
+package com.gastonsiffert.demo
 
 import akka.cluster.sharding.typed.ShardingEnvelope
 import akka.cluster.sharding.typed.scaladsl.{ClusterSharding, Entity}

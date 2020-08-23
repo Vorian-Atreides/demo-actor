@@ -1,4 +1,4 @@
-package com.messagebird.demo
+package com.gastonsiffert.demo
 
 import java.net.InetSocketAddress
 
